@@ -39,7 +39,7 @@ public class Main {
                         mhs.hapusMhs(cnim);
                         break;
                     case 5:
-                        hapusData();
+                        mhs.hapusData();
                         break;
                     case 6:
                         System.exit(0);
@@ -54,6 +54,4 @@ public class Main {
 
     }
 
-    private static void hapusData() {
-    }
 }
