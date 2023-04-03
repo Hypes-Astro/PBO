@@ -1,0 +1,14 @@
+pada kesempatan kali ini kita akan membahas apa itu class dan object
+
+Class => template / loyang
+Object => entitas / kue
+
+sebelumnya kita perlu meng instansiasi guna membuat object real. proses membuat Object.
+
+contoh : 
+
+class Mahasiswa{
+    string nama;
+    //ini contoh instansiasi baru.
+    Mahasiswa nama1 = new Mahasiswa();
+}
